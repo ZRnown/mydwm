@@ -20,7 +20,7 @@ static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#282a36";
+static const char col_cyan[]        = "#38344a";
 static const char col_border[]	    = "#2e45db";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
@@ -31,7 +31,7 @@ static const char *colors[][3]      = {
 /* tagging */
 static const char *tags[] = { "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖" };
 /* launcher commands (They must be NULL terminated) */
-static const char* github[]      = { "google-chrome-stable", "www.github.com", NULL };
+static const char* github[]      = { "microsoft-edge-stable", "www.github.com", NULL };
 
 static const Launcher launchers[] = {
        /* command       name to display */
